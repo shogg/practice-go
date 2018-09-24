@@ -21,3 +21,4 @@ OverlaidTriangles(3, 3) // 6
 ```
 go test -bench .
 ```
+
